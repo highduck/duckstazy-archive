@@ -2,6 +2,10 @@
 
 Duckstazy projects archive with collection of source-code and assets
 
+### duckstazy-pc
+
+Source-code is missing. Maybe it could be restored sometime from somewhere. Please share if you have original PC version archive :)  
+
 ### duckstazy-flash
 
 Original Duckstazy Flash version with exported assets and source-code. Project is from 2008-2009.
