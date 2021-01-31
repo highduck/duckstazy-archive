@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+
+	<particles>
+		<!-- 
+		
+		<style name="bubble" type="simple">
+			<life-span value="1" range="2" />
+			<acceleration value="0; 0" range="0; 0" />
+			<scale sync="true" ease="" easeX="" easeY="">
+				<start value="1" range="-0.25" />
+				<end value="0; 0.25" range="0" />
+			</scale>
+			<alpha ease="">
+				<start value="0.5" range="0.5"/>
+				<end value="0"/>
+			</alpha>
+			<colors sync="true" ease="">
+				<start range="0xffffff; 0xff00ff; 0xff0000"/>
+				<end range="0x00ff00" />
+			</colors>
+			<friction>
+				<rotation value="1" range="0" />
+				<velocity value="1" range="0" />
+			</friction>
+		</style>
+		
+		 -->
+		 
+		<style name="brown_bubble" type="simple">
+			<symbol value="mc_bubble" />
+			<life-span value="0.5" range="2.5" />
+			<acceleration value="0; -400" />
+			<scale sync="true" ease="" easeX="" easeY="">
+				<start value="1" />
+				<end value="0" />
+			</scale>
+			<alpha ease="">
+				<start value="1.0" />
+				<end value="0" />
+			</alpha>
+			<friction>
+				<velocity value="0.001" range="0.099" />
+			</friction>
+			
+		</style>
+		
+		<style name="blue_bubble" type="simple">
+			<symbol value="mc_jump_circle" />
+			<life-span value="2" range="1" />
+			<acceleration value="0; -400" />
+			<scale sync="true" ease="" easeX="" easeY="">
+				<start value="0.2" />
+				<end value="0" />
+			</scale>
+			<alpha ease="">
+				<start value="0" />
+				<end value="1" />
+			</alpha>
+			<colors sync="true" ease="">
+				<start range="0xff33ff; 0x3333ff"/>
+				<end range="0xff33ff; 0x3333ff"/>
+			</colors>
+			<friction>
+				<velocity value="0.001" range="0.099" />
+			</friction>
+		</style>
+		
+	</particles>
+
+
+</settings>

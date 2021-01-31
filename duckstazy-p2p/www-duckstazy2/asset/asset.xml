@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+
+	<item id="level_blank" url="lvl/level_blank.xml" />
+	
+	<item id="level_p2_0" url="lvl/level_p2_0.xml" />
+	<item id="level_p2_1" url="lvl/level_p2_1.xml" />
+	<item id="level_p2_2" url="lvl/level_p2_2.xml" />
+	<item id="level_p2_3" url="lvl/level_p2_3.xml" />
+	
+	<item id="level_ai_test" url="lvl/level_ai_test.xml" />
+	
+	<item id="jump_1" url="sfx/jump_1.mp3" />
+	<item id="jump_2" url="sfx/jump_1.mp3" />
+	<item id="die" url="sfx/boom1.mp3" />
+	<item id="fuck" url="sfx/fuck.mp3" />
+	<item id="jumper" url="sfx/jumper.mp3" />
+	<item id="lose" url="sfx/lose.mp3" />
+	
+	<item id="sfx_land" url="sfx/land.mp3" />
+	<item id="sfx_step1" url="sfx/step1.mp3" />
+	<item id="sfx_step2" url="sfx/step2.mp3" />
+	<item id="sfx_wing1" url="sfx/wing1.mp3" />
+	<item id="sfx_wing2" url="sfx/wing2.mp3" />
+	<item id="sfx_door_open" url="sfx/door_open.mp3" />
+	<item id="sfx_door_close" url="sfx/door_close.mp3" />
+
+	<item id="kicked" url="sfx/player_hit.mp3" />
+	
+	<item id="sfx_bonus" url="sfx/bonus.mp3" />
+	<item id="sfx_bonus_undead" url="sfx/bonus_undead.mp3" />
+	<item id="sfx_bonus_speed" url="sfx/bonus_speed.mp3" />
+	<item id="sfx_bonus_steal" url="sfx/bonus_steal.mp3" />
+	<item id="sfx_bonus_quad" url="sfx/bonus_quad.mp3" />
+	<item id="sfx_bonus_rocket" url="sfx/bonus_rocket.mp3" />
+	<item id="sfx_bonus_teleport" url="sfx/bonus_teleport.mp3" />
+	
+	<item class="mc_duck_idle" url="gfx/duck.swf" />
+	<item class="mc_duck_run" url="gfx/duck.swf" />
+	<item class="mc_duck_jump_up" url="gfx/duck.swf" />
+	<item class="mc_duck_jump_down" url="gfx/duck.swf" />
+	<item class="mc_duck_fire" url="gfx/duck.swf" />
+	
+	<item class="mc_seed" url="gfx/duck.swf" />
+	
+	<item class="mc_bubble" url="gfx/duck.swf" />
+	
+	<item class="mc_feather" url="gfx/duck.swf" />
+	
+	<item class="mc_shark" url="gfx/duck.swf" />
+	
+	<item id="mc_teleport" class="mc_teleport" url="gfx/duck.swf" />
+	
+</asset>

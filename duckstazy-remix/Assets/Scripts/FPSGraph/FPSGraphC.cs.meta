@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 2a8622425a97b41e998bc9362adf6050
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - androidMaterial: {fileID: 2100000, guid: bea18b73983d2449d929df94dd43c52d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

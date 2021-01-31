@@ -1,0 +1,87 @@
+<level>
+  <settings start_scene="default">
+    <info/>
+  </settings>
+  <scene id="default" world="-8; 264; 752; 900" camera="-8; 280; 752; 900">
+	<objects>
+		<object type="start_point" hit="10; 10">
+			<transform position="696; 720" />
+		</object>
+		<object type="start_point" hit="10; 10">
+			<transform position="48; 720" />
+		</object>
+		<object type="house" hit="96; 48" id="1" qdir="1">
+			<transform position="0; 840" />
+		</object>
+		<object type="door" hit="48; 48" id="1">
+			<transform position="264; 840" />
+		</object>
+		<object type="house" hit="96; 48" id="0" qdir="-1">
+			<transform position="648; 840" />
+		</object>
+		<object type="door" hit="48; 48" id="0">
+			<transform position="432; 840" />
+		</object>
+		<object type="bun" hit="8; 8">
+			<transform position="93; 477" />
+		</object>
+		<object type="bun" hit="8; 8">
+			<transform position="644; 477" />
+		</object>
+		<object type="bun" hit="8; 8">
+			<transform position="368; 408" />
+		</object>
+		<object type="bonus" hit="8; 8">
+			<transform position="368; 452" />
+		</object>
+		<object type="block" hit="760; 24">
+			<transform position="-8; 888" />
+		</object>
+		<object type="block" hit="240; 96">
+			<transform position="48; 504" />
+		</object>
+		<object type="spikes" hit="32; 8">
+			<transform position="356; 784" />
+		</object>
+		<object type="block" hit="504; 24">
+			<transform position="120; 816" />
+		</object>
+		<object type="block" hit="120; 48">
+			<transform position="312; 840" />
+		</object>
+		<object type="block" name="perekladina" hit="456; 12" side="-1">
+			<transform position="144; 720" />
+		</object>
+		<object type="block" hit="96; 144">
+			<transform position="600; 504" />
+		</object>
+		<object type="block" hit="144; 48">
+			<transform position="408; 600" />
+		</object>
+		<object type="block" hit="96; 144">
+			<transform position="48; 504" />
+		</object>
+		<object type="bonus" hit="8; 8">
+			<transform position="165; 620" />
+		</object>
+		<object type="bonus" hit="8; 8">
+			<transform position="572; 621" />
+		</object>
+		<object type="block" hit="240; 96">
+			<transform position="456; 504" />
+		</object>
+		<object type="block" hit="144; 48">
+			<transform position="192; 600" />
+		</object>
+		<object type="block" hit="360; 48">
+			<transform position="192; 792" />
+		</object>
+		<object type="bun" hit="8; 8">
+			<transform position="69; 477" />
+		</object>
+		<object type="bun" hit="8; 8">
+			<transform position="668; 477" />
+		</object>
+	</objects>
+  </scene>
+</level>
