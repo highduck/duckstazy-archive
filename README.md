@@ -10,6 +10,8 @@ Source-code is missing. Maybe it could be restored sometime from somewhere. Plea
 
 Original Duckstazy Flash version with exported assets and source-code. Project is from 2008-2009.
 
+New rescale: 122-125%
+
 ### duckstazy-p2p
 
 New Duckstazy Flash prototype oriented on PvP gameplay, online game prototype and simple AI for bots on dynamic maps.
